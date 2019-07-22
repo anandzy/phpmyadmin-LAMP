@@ -1,0 +1,13 @@
+Code tutorial creadit:
+https://www.youtube.com/watch?v=yhsVNdNF9sU&list=LLkLUiUCImoVDpWEvkpJyEaQ&index=2&t=1394s:
+
+
+Code tweaked for my use last tweaked:20190722
+
+Usefulll links for installing configuring and trouble shooting
+
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
+
+https://github.com/Microsoft/WSL/issues/1953
+
+https://www.ostechnix.com/install-phpmyadmin-with-lamp-stack-on-ubuntu-18-04-lts/
